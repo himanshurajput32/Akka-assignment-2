@@ -19,12 +19,13 @@ class ValidationActorSpec extends TestKit(ActorSystem("test-system")) with WordS
     }
   }
   "Validation Actor " must {
-    "decrease piece by 1" in {
+    "return SoldOut" in {
       val ref1 = system.actorOf(Props(new PurchaseActor))
       val ref = TestActorRef(Props(classOf[ValidationActor], ref1))
       ref ! (Customer("", "", "", ""), 1)
-      ref.underlying.av
+      expectMsg("Sold Out")
     }
   }
+
 
 }

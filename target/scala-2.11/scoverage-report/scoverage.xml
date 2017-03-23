@@ -1,0 +1,204 @@
+<scoverage 
+statement-count="50" statements-invoked="27" statement-rate="54.00" branch-rate="75.00" version="1.0" timestamp="1490254226288">
+    <packages>
+        <package name="&lt;empty&gt;" statement-count="50" statements-invoked="27" statement-rate="54.00">
+            <classes>
+                <class 
+                name="PurchaseActor" filename="SamsungGalaxyS8Sale.scala" statement-count="9" statements-invoked="9" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/PurchaseActor/&lt;none&gt;" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="&lt;none&gt;" start="520" end="534" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="&lt;none&gt;" start="512" end="541" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="&lt;none&gt;" start="498" end="499" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="&lt;none&gt;" start="519" end="519" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/PurchaseActor/receive" statement-count="5" statements-invoked="5" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="657" end="784" line="24" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="635" end="650" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="666" end="783" line="24" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="568" end="568" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="635" end="650" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="ValidationActor" filename="SamsungGalaxyS8Sale.scala" statement-count="27" statements-invoked="18" statement-rate="66.67" branch-rate="75.00">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/ValidationActor/receive" statement-count="23" statements-invoked="14" statement-rate="60.87" branch-rate="75.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1363" end="1363" line="47" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1467" end="1497" line="51" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1720" end="1720" line="58" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1568" end="1611" line="55" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1760" end="1766" line="61" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1467" end="1473" line="51" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1680" end="1684" line="57" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1760" end="1779" line="61" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1767" end="1767" line="61" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1518" end="1787" line="54" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1672" end="1692" line="57" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1474" end="1474" line="51" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1543" end="1738" line="54" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1522" end="1541" line="54" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1620" end="1640" line="56" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1444" end="1455" line="50" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1769" end="1779" line="61" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1620" end="1640" line="56" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1760" end="1779" line="61" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1476" end="1497" line="51" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1680" end="1691" line="57" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1701" end="1730" line="58" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1467" end="1497" line="51" branch="true" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/ValidationActor/&lt;none&gt;" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="&lt;none&gt;" start="1281" end="1310" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="&lt;none&gt;" start="1288" end="1288" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="&lt;none&gt;" start="1335" end="1336" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="&lt;none&gt;" start="1289" end="1303" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="PurchaseRequstHandler" filename="SamsungGalaxyS8Sale.scala" statement-count="14" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/PurchaseRequstHandler/&lt;none&gt;" statement-count="3" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequstHandler" class-type="Class" full-class-name="PurchaseRequstHandler" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="&lt;none&gt;" start="885" end="885" line="31" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequstHandler" class-type="Class" full-class-name="PurchaseRequstHandler" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="&lt;none&gt;" start="886" end="900" line="31" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequstHandler" class-type="Class" full-class-name="PurchaseRequstHandler" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="&lt;none&gt;" start="878" end="907" line="31" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/PurchaseRequstHandler/receive" statement-count="11" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequstHandler" class-type="Class" full-class-name="PurchaseRequstHandler" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="934" end="934" line="33" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequstHandler" class-type="Class" full-class-name="PurchaseRequstHandler" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1135" end="1146" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequstHandler" class-type="Class" full-class-name="PurchaseRequstHandler" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1135" end="1167" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequstHandler" class-type="Class" full-class-name="PurchaseRequstHandler" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1106" end="1110" line="36" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequstHandler" class-type="Class" full-class-name="PurchaseRequstHandler" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1025" end="1068" line="35" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequstHandler" class-type="Class" full-class-name="PurchaseRequstHandler" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1174" end="1194" line="38" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequstHandler" class-type="Class" full-class-name="PurchaseRequstHandler" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1098" end="1118" line="36" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequstHandler" class-type="Class" full-class-name="PurchaseRequstHandler" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1147" end="1147" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequstHandler" class-type="Class" full-class-name="PurchaseRequstHandler" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1135" end="1167" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequstHandler" class-type="Class" full-class-name="PurchaseRequstHandler" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1186" end="1193" line="38" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequstHandler" class-type="Class" full-class-name="PurchaseRequstHandler" source="/home/knoldus/himanshu/akka/AkkaAssignment-2/src/main/scala/SamsungGalaxyS8Sale.scala" method="receive" start="1106" end="1117" line="36" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>
